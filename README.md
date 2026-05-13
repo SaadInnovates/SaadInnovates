@@ -25,7 +25,7 @@ Production-grade vehicle damage detection using YOLOv8. Full pipeline: image upl
 inference → bounding box visualization → automated damage reports. WebSocket real-time 
 updates, role-based auth, analytics dashboard.
 
-**[CortexBI]([your-repo-link](https://github.com/SaadInnovates/CortexBI.ai))** — Agentic AI · Business Intelligence  
+**[CortexBI](https://github.com/SaadInnovates/CortexBI.ai)** — Agentic AI · Business Intelligence  
 Autonomous BI platform powered by LangGraph. Ingests CSV, MongoDB, and REST APIs → 
 anomaly detection (Isolation Forest) → RFM segmentation → executive summaries. BI beyond 
 static dashboards.
