@@ -74,7 +74,6 @@ Stack: Flutter · FastAPI · LangGraph (8 agents) · ChromaDB RAG · ONNX edge M
 
 - 3.86 GPA at PUCIT · PEF Scholar
 - DataCamp Certified Associate AI Engineer
-- Previously built a Quranic audio recognition system using a custom-trained Wave2Vec model at Reka Studios
 - Open to internships and AI/ML roles — ideally where I get to build things that actually ship
 
 ---
