@@ -28,8 +28,12 @@ production-grade systems.
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaadInnovates&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadInnovates&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadInnovates&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaadInnovates&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaadInnovates&theme=github_dark" />
 </p>
 
 <p align="center">
