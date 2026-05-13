@@ -46,7 +46,7 @@ different voices and age groups. Outperformed Whisper fine-tune on inference spe
 
 
 **[Car Price Predictor](https://github.com/SaadInnovates/Car-Price-Predictor)** — Machine Learning · Deployed  
-Random Forest model trained on OLX Pakistan data, integrated into a live web interface.  
+Random Forest model trained on OLX Pakistan data, integrated into a live web interface R² — 0.92 Cross Valid Score 0.90
 `scikit-learn` `Streamlit` `Pandas`
 
 **[House Price Prediction Pakistan](https://github.com/SaadInnovates/House-Price-Predictor)** — Machine Learning  
