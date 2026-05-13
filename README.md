@@ -46,10 +46,6 @@ production-grade systems.
 
 ---
 
-[![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline_3D-View_My_Contributions-58A6FF?style=flat&logo=github)](https://skyline.github.com/SaadInnovates/2024)
-
----
-
 ### Selected Projects
 
 **[NutriFlow.ai](https://github.com/SaadInnovates/NutriFlow.ai)** — Agentic AI  
