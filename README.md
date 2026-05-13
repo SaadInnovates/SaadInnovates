@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SaadInnovates&color=0e75b6&style=flat&label=Profile+Views)
 ## Muhammad Saad Zubair
 
 I build end-to-end intelligent systems — not just models. From agentic AI pipelines and 
@@ -9,8 +10,31 @@ production-grade systems.
 
 ### What I work with
 
-`Python` `PyTorch / TensorFlow` `Keras` `YOLOv8 / YOLOv10` `RF-DETR` `LangGraph / LangChain` `FastAPI` 
-`React` `OpenCV` `PostgreSQL / SQLite` `Wave2Vec` `Docker` 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaadInnovates&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadInnovates&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SaadInnovates&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
@@ -73,7 +97,7 @@ Stack: Flutter · FastAPI · LangGraph (8 agents) · ChromaDB RAG · ONNX edge M
 ### A few more things
 
 - 3.86 GPA at PUCIT · PEF Scholar
-- DataCamp Certified Associate AI Engineer
+- [![DataCamp](https://img.shields.io/badge/DataCamp-Certified_Associate_AI_Engineer-03EF62?style=flat&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014522172001)
 - Open to internships and AI/ML roles — ideally where I get to build things that actually ship
 
 ---
