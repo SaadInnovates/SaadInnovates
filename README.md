@@ -9,30 +9,53 @@ production-grade systems.
 
 ### What I work with
 
-`Python` `PyTorch / TensorFlow` `YOLOv8 / YOLOv10` `LangGraph / LangChain` `FastAPI` 
-`React` `OpenCV` `PostgreSQL / SQLite` `Wave2Vec` `Docker`
+`Python` `PyTorch / TensorFlow` `Keras` `YOLOv8 / YOLOv10` `RF-DETR` `LangGraph / LangChain` `FastAPI` 
+`React` `OpenCV` `PostgreSQL / SQLite` `Wave2Vec` `Docker` 
 
 ---
 
 ### Selected Projects
 
-**[NutriFlow.ai](your-repo-link)** — Agentic AI  
+**[NutriFlow.ai](https://github.com/SaadInnovates/NutriFlow.ai)** — Agentic AI  
 End-to-end AI nutrition assistant with agentic plan generation, diet debug workflows, recipe 
 generation, JWT auth, session history, and PDF export. Full-stack with animated frontend.
 
-**[Inspectra.ai](your-repo-link)** — Computer Vision  
+**[Inspectra.ai](https://github.com/SaadInnovates/InspectraAI)** — Computer Vision  
 Production-grade vehicle damage detection using YOLOv8. Full pipeline: image upload → 
 inference → bounding box visualization → automated damage reports. WebSocket real-time 
 updates, role-based auth, analytics dashboard.
 
-**[CortexBI](your-repo-link)** — Agentic AI · Business Intelligence  
+**[CortexBI]([your-repo-link](https://github.com/SaadInnovates/CortexBI.ai))** — Agentic AI · Business Intelligence  
 Autonomous BI platform powered by LangGraph. Ingests CSV, MongoDB, and REST APIs → 
 anomaly detection (Isolation Forest) → RFM segmentation → executive summaries. BI beyond 
 static dashboards.
 
-**[Morse Gesture Translator](your-repo-link)** — Computer Vision · Real-time  
+**[Morse Gesture Translator](https://github.com/SaadInnovates/Morse-Code-Hand-Gesture-Decoder-CV-)** — Computer Vision · Real-time  
 Real-time hand gesture → Morse code → text translation. Custom dataset built with OpenCV, 
 model trained with TensorFlow/Keras. Five gestures covering dot, dash, space, and undo.
+
+**Number Plate Detector** *(Reka Studios)* — Computer Vision · Deployed  
+Fine-tuned YOLOv10 on license plates + PaddleOCR + SQLite pipeline. Currently running  
+at a live parking lot — not a demo, actual production use.  
+`YOLOv10` `PaddleOCR` `SQLite`
+
+**Quranic Audio Recognition** *(Reka Studios)* — Audio ML  
+Custom Wave2Vec model trained on Quranic audio extracted from YouTube. Tested across  
+different voices and age groups. Outperformed Whisper fine-tune on inference speed.  
+`Wave2Vec` `PyTorch` `Audio Processing`
+
+
+**[Car Price Predictor](https://github.com/SaadInnovates/Car-Price-Predictor)** — Machine Learning · Deployed  
+Random Forest model trained on OLX Pakistan data, integrated into a live web interface.  
+`scikit-learn` `Streamlit` `Pandas`
+
+**[House Price Prediction Pakistan](https://github.com/SaadInnovates/House-Price-Predictor)** — Machine Learning  
+CatBoost outperformed all other algorithms on Zameen.com data — R² 0.89,  
+cross-validation score 0.84+.  
+`CatBoost` `scikit-learn` `Pandas`
+
+
+
 
 ---
 
