@@ -104,7 +104,7 @@ cross-validation score 0.84+.
 
 ### Currently working on
 
-**CarCopilot** *(FYP)* — An AI-powered OBD-II vehicle intelligence platform for Android/iOS.  
+**CarCopilot** — An AI-powered OBD-II vehicle intelligence platform for Android/iOS.  
 Plug a $20 Bluetooth adapter into any car's diagnostic port and get a full AI copilot:  
 real-time engine telemetry, fault code analysis with RAG-powered explanations, predictive  
 maintenance forecasts, driving behavior coaching, and a voice assistant that answers  
