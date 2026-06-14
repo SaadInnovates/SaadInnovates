@@ -2,7 +2,7 @@
 ## Muhammad Saad Zubair
 
 I build end-to-end intelligent systems — not just models. From agentic AI pipelines and 
-computer vision platforms to full-stack apps that ship to real users. Currently a 6th-semester 
+computer vision platforms to full-stack apps that ship to real users. Currently a 7th-semester 
 IT student at PUCIT with a 3.86 GPA and a habit of over-engineering side projects into 
 production-grade systems.
 
