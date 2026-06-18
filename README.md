@@ -2,9 +2,9 @@
 ## Muhammad Saad Zubair
 
 I build end-to-end intelligent systems — not just models. From agentic AI pipelines and 
-computer vision platforms to full-stack apps that ship to real users. Currently a 7th-semester 
-IT student at PUCIT with a 3.86 GPA and a habit of over-engineering side projects into 
-production-grade systems.
+computer vision platforms to workflow automation and full-stack apps that ship to real users. 
+Currently an **AI/ML Intern @ Systems Limited** and a 7th-semester IT student at PUCIT with a 
+3.86 GPA and a habit of over-engineering side projects into production-grade systems.
 
 ---
 
@@ -16,6 +16,7 @@ production-grade systems.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -111,13 +112,19 @@ maintenance forecasts, driving behavior coaching, and a voice assistant that ans
 "why is my check engine light on?" — all running locally, no cloud required.  
 Stack: Flutter · FastAPI · LangGraph (8 agents) · ChromaDB RAG · ONNX edge ML · Whisper STT
 
+**Workflow Automation** *(n8n)* — Designing and shipping production automation pipelines:  
+RAG chatbots over vector stores, lead-scraping → CRM pipelines, AI-generated reporting  
+systems, and multi-tool personal assistant agents wired into Google Workspace.  
+`n8n` `Groq` `Vector Stores` `Google Workspace APIs`
+
 ---
 
 ### A few more things
 
+- AI/ML Intern @ Systems Limited
 - 3.86 GPA at PUCIT · PEF Scholar
 - [![DataCamp](https://img.shields.io/badge/DataCamp-Certified_Associate_AI_Engineer-03EF62?style=flat&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0014522172001)
-- Open to internships and AI/ML roles — ideally where I get to build things that actually ship
+- Open to full-time AI/ML roles — ideally where I get to build things that actually ship
 
 ---
 
