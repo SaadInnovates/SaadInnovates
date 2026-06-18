@@ -48,10 +48,6 @@ Currently an **AI/ML Intern @ Systems Limited** and a 7th-semester IT student at
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaadInnovates&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaadInnovates&theme=github-dark-blue&hide_border=true" />
-</p>
-
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadInnovates&theme=github-compact&hide_border=true&area=true" width="100%" />
