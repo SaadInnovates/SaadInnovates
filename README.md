@@ -277,31 +277,6 @@ Property price prediction using **Zameen.com data**.
 
 **R² = 0.89**
 **Cross-Validation = 0.84+**
-
----
-
-# 🧪 Currently Building
-
-## 🚗 CarCopilot
-
-### AI × Automotive Intelligence
-
-An AI-powered vehicle intelligence platform combining automotive telemetry, diagnostics, RAG, autonomous agents and edge ML.
-
-Current architecture:
-
-`Flutter` · `FastAPI` · `LangGraph` · `ChromaDB` · `ONNX` · `Whisper`
-
-Exploring capabilities such as:
-
-* Real-time vehicle telemetry
-* Vehicle fault-code analysis
-* RAG-powered diagnostic explanations
-* Predictive maintenance
-* Driving behavior analysis
-* Voice-based AI assistance
-* Local / edge AI processing
-
 ---
 
 ## 🤖 SDLC Agents
