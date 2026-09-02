@@ -329,7 +329,7 @@ More details coming later.
 
 **BS Information Technology · 7th Semester**
 
-**GPA: 3.86 / 4.00**
+**GPA: 3.87 / 4.00**
 
 🏅 **PEF Scholar**
 
@@ -351,7 +351,7 @@ I'm interested in opportunities where I can work on **real intelligent systems**
 
 Especially interested in:
 
-`Agentic AI` · `AI Engineering` · `Machine Learning` · `Computer Vision` · `Intelligent Automation` · `AI Products` · `Applied Research`
+`AI/ML Engineering` · `Full Stack Development` · `Data Science` · `AI Products` · `Applied Research`
 
 I enjoy working where **AI and software engineering meet** — designing systems where models, agents, APIs, databases, automation and user-facing products work together.
 
