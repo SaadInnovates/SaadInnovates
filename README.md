@@ -2,7 +2,7 @@
 
 # Muhammad Saad Zubair
 
-### AI/ML Engineer · Agentic AI · Intelligent Automation · Computer Vision · AI Systems
+### AI/ML  · Data Science · Full Stack Engineering · Cloud · Data Analytics
 
 I build **end-to-end intelligent systems that actually ship** — not just models.
 
