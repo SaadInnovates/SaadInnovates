@@ -8,7 +8,7 @@ I build **end-to-end intelligent systems that actually ship** — not just model
 
 From **Agentic AI and intelligent workflow automation** to computer vision, AI-powered backends, RAG systems, and full-stack applications, I enjoy taking ideas from architecture and experimentation all the way to **working, deployable systems**.
 
-Currently a **7th-semester IT student at PUCIT** with a **3.86 GPA**, and an AI/ML engineer focused on building at the intersection of **AI, software engineering, automation, and real-world products**.
+Currently a **7th-semester IT student at PUCIT** with a **3.87 GPA**, and an AI/ML engineer focused on building at the intersection of **AI, software engineering, automation, and real-world products**.
 
 I've completed **10+ client projects** and worked professionally across **Agentic AI, SDLC automation, computer vision, chatbots, backend engineering, and applied machine learning**.
 
